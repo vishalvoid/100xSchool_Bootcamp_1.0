@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=600&lines=100xDevs+Cohort+4.0" alt="100xDevs Cohort 4.0" />
 
-# Complete Bootcamp Notes & Projects
+# 100xSchool Combined Bootcamp Notes & Projects
 
 ### Web Development • DevOps • Web3 • AI/ML
 
