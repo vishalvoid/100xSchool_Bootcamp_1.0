@@ -45,37 +45,37 @@ Click on any track to view the detailed syllabus:
 <img src="./assets/devops_Syllabus.png" width="400px" alt="DevOps Syllabus"/>
 
 **14 Modules** including Docker, Kubernetes, CI/CD, Monitoring, and Cloud Infrastructure
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🔗 [04_web3](./syllabus/WEB3.md)
+<img src="./assets/web3-syllabus.png" width="400px" alt="Web3 Syllabus"/>
+
+**18 Topics** covering Blockchain, Solana, Smart Contracts, DeFi, and Decentralized Applications
+
+</td>
+<td width="50%" align="center">
+
+### 🤖 [03_ai-ml](./syllabus/AI_ML.md)
+<img src="./assets/ai-syllabus.png" width="400px" alt="AI/ML Syllabus"/>
+
+**18 Modules** from Neural Networks to Agent Frameworks, LLMs, RAG, and Advanced AI Topics
+
+</td>
+</tr>
+</table>
+
+## 📂 Repository Structure
+
 ```
-\ud83d\udce6 100xdevs-cohort-4
-\u251c\u2500\u2500 \ud83d\udcc1 01_web-development/
-\u2502   \u251c\u2500\u2500 Week-01-html-css/
-\u2502   \u251c\u2500\u2500 Week-02-javascript/
-\u2502   \u251c\u2500\u2500 Week-03-react/
-\u2502   \u251c\u2500\u2500 Week-04-nodejs-express/
-\u2502   \u2514\u2500\u2500 extras/
-\u2502
-\u251c\u2500\u2500 \ud83d\udcc1 02_devops/
-\u2502   \u251c\u2500\u2500 Week-01-docker/
-\u2502   \u251c\u2500\u2500 Week-02-kubernetes/
-\u2502   \u251c\u2500\u2500 Week-03-ci-cd/
-\u2502   \u2514\u2500\u2500 extras/
-\u2502
-\u251c\u2500\u2500 \ud83d\udcc1 04_web3/
-\u2502   \u251c\u2500\u2500 Week-01-solana/
-\u2502   \u251c\u2500\u2500 Week-02-smart-contracts/
-\u2502   \u251c\u2500\u2500 Week-03-defi/
-\u2502   \u2514\u2500\u2500 extras/
-\u2502
-\u251c\u2500\u2500 \ud83d\udcc1 03_ai-ml/
-\u2502   \u251c\u2500\u2500 Week-01-neural-networks/
-\u2502   \u251c\u2500\u2500 Week-02-llms/
-\u2502   \u251c\u2500\u2500 Week-03-agents/
-\u2502   \u2514\u2500\u2500 extras/
-\u2502
-\u251c\u2500\u2500 \ud83d\udcc1 assets/              # Syllabus images and resources
-\u251c\u2500\u2500 \ud83d\udcc1 syllabus/            # Detailed syllabus markdown files
-\u2514\u2500\u2500 \ud83d\udcc1 resources/           # Additional learning materials
-```
+📦 100xSchool-bootcamp-1
+├── 📁 01_web-development/
+│   ├── Week-01-html-css/
+│   ├── Week-02-javascript/
+│   ├── Week-03-react/
 │   ├── Week-04-nodejs-express/
 │   └── extras/
 │
@@ -99,15 +99,16 @@ Click on any track to view the detailed syllabus:
 │
 ├── 📁 assets/              # Syllabus images and resources
 ├── 📁 syllabus/            # Detailed syllabus markdown files
-└── 📁 resources/           # Additional learning materials
+└── 📁 resources/  
 ```
 
 ## 🚀 Quick Start
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/username/100xdevs-cohort-4.git
-cd 100xdevs-cohort-4
+git clone https://github.com/vishalvoid/100xSchool-Bootcamp-1.0-webdev-devops-web3-ai-notes
+
+cd 100xSchool-Bootcamp-1.0-webdev-devops-web3-ai-notes
 ```
 
 ### Navigate by Topic
@@ -115,17 +116,15 @@ cd 100xdevs-cohort-4
 # For 01_web-development
 cd 01_web-development/
 
-# For DSA Practice
-cd dsa/
-
 # For 02_devops
 cd 02_devops/
+
+# For 03_ai-ml
+cd 03_ai-ml/
 
 # For 04_web3
 cd 04_web3/
 
-# For 03_ai-ml
-cd 03_ai-ml/
 ```
 
 *Last updated: December 2025*
