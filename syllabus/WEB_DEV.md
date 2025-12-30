@@ -1,4 +1,4 @@
-# Web Development Syllabus
+# 01_web-development — Web Development Syllabus
 
 Complete roadmap for modern full-stack web development covering frontend, backend, databases, and real-time applications.
 

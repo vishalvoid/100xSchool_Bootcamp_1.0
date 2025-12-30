@@ -1,4 +1,4 @@
-# AI & Machine Learning Syllabus
+# 03_ai-ml — AI & Machine Learning Syllabus
 
 Comprehensive AI/ML curriculum covering neural networks, LLMs, agent frameworks, and advanced AI topics.
 

@@ -1,4 +1,4 @@
-# Web3 Development Syllabus
+# 04_web3 — Web3 Development Syllabus
 
 Comprehensive Web3 curriculum focused on blockchain fundamentals, Solana development, and decentralized applications.
 

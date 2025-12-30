@@ -1,4 +1,4 @@
-# DevOps Engineering Syllabus
+# 02_devops — DevOps Engineering Syllabus
 
 Complete DevOps curriculum covering Linux, containerization, orchestration, CI/CD, and cloud infrastructure.
 
