@@ -9,8 +9,6 @@
 
 *Comprehensive notes, assignments, and projects from the 100xDevs bootcamp*
 
-
-
 ---
 
 </div>
@@ -19,78 +17,77 @@
 
 This repository documents my journey through the **100xDevs Cohort 1.0** bootcamp. The course covers modern development practices across Web Development & DevOps, Web3, AI/ML, and Data Structures & Algorithms with hands-on projects and real-world applications.
 
-> **Note:** This is a personal learning repository and is not officially affiliated with 100xDevs. Use it as a supplement to the actual course material.
 ---
 
 ## 📊 Progress Tracker
 
-### 💻 Data Structures & Algorithms Bootcamp
+### [💻 Data Structures & Algorithms Bootcamp](./00_dsa/README.md)
 
-| Week | Module | Topics | Status |
-|:----:|--------|--------|:------:|
-| Week 01 | Basics | Arrays, Strings, Time Complexity | 📝 |
-| Week 02 | Searching & Sorting | Binary Search, Merge Sort, Quick Sort | 📝 |
-| Week 03 | Linked Lists | Singly, Doubly, Circular Linked Lists | 📝 |
-| Week 04 | Stacks & Queues | Implementation & Applications | 📝 |
-| Week 05 | Trees | Binary Trees, BST, Tree Traversals | 📝 |
+| Week | Module | Topics | Type | Status |
+|:----:|--------|--------|:----:|:------:|
+| Week 01 | [Basics](./00_dsa/Week-01/README.md) | Arrays, Strings, Time Complexity | 📝 Notes | 📝 |
+| Week 02 | [Searching & Sorting](./00_dsa/Week-02/README.md) | Binary Search, Merge Sort, Quick Sort | 📝 Notes | 📝 |
+| Week 03 | [Linked Lists](./00_dsa/Week-03/README.md) | Singly, Doubly, Circular Linked Lists | 📝 Notes | 📝 |
+| Week 04 | [Stacks & Queues](./00_dsa/Week-04/README.md) | Implementation & Applications | 📝 Notes | 📝 |
+| Week 05 | [Trees](./00_dsa/Week-05/README.md) | Binary Trees, BST, Tree Traversals | 💼 Assignment | 📝 |
 
 <div align="right">
 
-[📋 View full DSA syllabus →](./00_dsa/README.md)
+[📚 View all DSA topics & problems →](./00_dsa/README.md)
 
 </div>
 
 ---
 
-### 🌐 Web Development & DevOps Bootcamp
+### [🌐 Web Development & DevOps Bootcamp](./01_web-development/README.md)
 
-| Week | Module | Topics | Status |
-|:----:|--------|--------|:------:|
-| Week 01 | Foundations | HTML, CSS, JavaScript Basics | 📝 |
-| Week 02 | JavaScript | Advanced JS, DOM Manipulation | 📝 |
-| Week 03 | React | Components, Hooks, State Management | 📝 |
-| Week 04 | Backend | Node.js, Express, APIs | 📝 |
-| Week 05 | Docker | Containerization & Images | 📝 |
+| Week | Module | Topics | Type | Status |
+|:----:|--------|--------|:----:|:------:|
+| Week 01 | [Foundations](./01_web-development/Week-01/README.md) | HTML, CSS, JavaScript Basics | 📝 Notes | 📝 |
+| Week 02 | [JavaScript](./01_web-development/Week-02/README.md) | Advanced JS, DOM Manipulation | 📝 Notes | 📝 |
+| Week 03 | [React](./01_web-development/Week-03/README.md) | Components, Hooks, State Management | 📝 Notes | 📝 |
+| Week 04 | [Backend](./01_web-development/Week-04/README.md) | Node.js, Express, APIs | 📝 Notes | 📝 |
+| Week 05 | [Docker](./01_web-development/Week-05/README.md) | Containerization & Images | 💼 Assignment | 📝 |
 
 <div align="right">
 
-[📋 View full Web Dev & DevOps syllabus →](./01_web-development/README.md)
+[📚 Explore full-stack development journey →](./01_web-development/README.md)
 
 </div>
 
 ---
 
-### 🔗 Web3 Bootcamp
+### [🔗 Web3 Bootcamp](./04_web3/README.md)
 
-| Week | Module | Topics | Status |
-|:----:|--------|--------|:------:|
-| Week 01 | Blockchain | Fundamentals & Architecture | 📝 |
-| Week 02 | Solana | Wallet, Tokens, Programs | 📝 |
-| Week 03 | Smart Contracts | Development & Testing | 📝 |
-| Week 04 | DeFi | Protocols & Integration | 📝 |
-| Week 05 | dApps | Full-stack Web3 Apps | 📝 |
+| Week | Module | Topics | Type | Status |
+|:----:|--------|--------|:----:|:------:|
+| Week 01 | [Blockchain](./04_web3/Week-01/README.md) | Fundamentals & Architecture | 📝 Notes | 📝 |
+| Week 02 | [Solana](./04_web3/Week-02/README.md) | Wallet, Tokens, Programs | 📝 Notes | 📝 |
+| Week 03 | [Smart Contracts](./04_web3/Week-03/README.md) | Development & Testing | 📝 Notes | 📝 |
+| Week 04 | [DeFi](./04_web3/Week-04/README.md) | Protocols & Integration | 📝 Notes | 📝 |
+| Week 05 | [dApps](./04_web3/Week-05/README.md) | Full-stack Web3 Apps | 💼 Assignment | 📝 |
 
 <div align="right">
 
-[📋 View full Web3 syllabus →](./04_web3/README.md)
+[📚 Discover blockchain & decentralized apps →](./04_web3/README.md)
 
 </div>
 
 ---
 
-### 🤖 AI/ML Bootcamp
+### [🤖 AI/ML Bootcamp](./03_ai-ml/README.md)
 
-| Week | Module | Topics | Status |
-|:----:|--------|--------|:------:|
-| **Week 00** | **Warmup** | [AI/ML Fundamentals](./03_ai-ml/Week_00_warmup/01_ai_ml_fundamentals.md) | ✅ |
-| **Week 00** | **Warmup** | [Introduction to Large Language Models](./03_ai-ml/Week_00_warmup/02_Intro_to_Large_Language_Models.md) | ✅ |
-| Week 01 | Neural Networks | Fundamentals & Architectures | ⏳ |
-| Week 02 | LLMs | Transformers & Fine-tuning | 📝 |
-| Week 03 | AI Agents | Frameworks & Autonomous Systems | 📝 |
+| Week | Module | Topics | Type | Status |
+|:----:|--------|--------|:----:|:------:|
+| **Week 00** | **[Warmup](./03_ai-ml/Week_00_warmup/README.md)** | [AI/ML Fundamentals](./03_ai-ml/Week_00_warmup/01_ai_ml_fundamentals.md) | 📝 Notes | ✅ |
+| **Week 00** | **[Warmup](./03_ai-ml/Week_00_warmup/README.md)** | [Introduction to Large Language Models](./03_ai-ml/Week_00_warmup/02_Intro_to_Large_Language_Models.md) | 📝 Notes | ✅ |
+| Week 01 | [Neural Networks](./03_ai-ml/Week-01/README.md) | Fundamentals & Architectures | 📝 Notes | ⏳ |
+| Week 02 | [LLMs](./03_ai-ml/Week-02/README.md) | Transformers & Fine-tuning | 📝 Notes | 📝 |
+| Week 03 | [AI Agents](./03_ai-ml/Week-03/README.md) | Frameworks & Autonomous Systems | 💼 Assignment | 📝 |
 
 <div align="right">
 
-[📋 View full AI/ML syllabus →](./03_ai-ml/README.md)
+[📚 Deep dive into AI & machine learning →](./03_ai-ml/README.md)
 
 </div>
 
@@ -98,52 +95,11 @@ This repository documents my journey through the **100xDevs Cohort 1.0** bootcam
 
 **Legend:** ✅ Complete • ⏳ In Progress • 📝 Planned
 
+**Type:** 📝 Notes • 💼 Assignment
+
 **Last Updated:** January 2024
 
 ---
-
-## 📚 Course Syllabus
-
-Click on any track to view the detailed syllabus:
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🌐 [01_web-development](./syllabus/WEB_DEV.md)
-<img src="./assets/webDev_syllabus.png" width="400px" alt="Web Dev Syllabus"/>
-
-**16 Modules** covering HTML, CSS, JavaScript, React, Node.js, Databases, and Real-time Communication
-
-</td>
-<td width="50%" align="center">
-
-### ⚙️ [02_devops](./syllabus/DEVOPS.md)
-<img src="./assets/devops_Syllabus.png" width="400px" alt="DevOps Syllabus"/>
-
-**14 Modules** including Docker, Kubernetes, CI/CD, Monitoring, and Cloud Infrastructure
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 🔗 [04_web3](./syllabus/WEB3.md)
-<img src="./assets/web3-syllabus.png" width="400px" alt="Web3 Syllabus"/>
-
-**18 Topics** covering Blockchain, Solana, Smart Contracts, DeFi, and Decentralized Applications
-
-</td>
-<td width="50%" align="center">
-
-### 🤖 [03_ai-ml](./syllabus/AI_ML.md)
-<img src="./assets/ai-syllabus.png" width="400px" alt="AI/ML Syllabus"/>
-
-**18 Modules** from Neural Networks to Agent Frameworks, LLMs, RAG, and Advanced AI Topics
-
-</td>
-</tr>
-</table>
 
 ## 🤝 Contributing
 
