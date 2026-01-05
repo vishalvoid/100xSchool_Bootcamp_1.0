@@ -1,6 +1,6 @@
 <div align="center">
 
-# 100xSchool Bootcamp 1.0 Notes
+# 100xSchool Bootcamp 1.0 Notes & Assignments
 
 ### Web Dev & DevOps • Web3 • AI/ML • DSA
 
