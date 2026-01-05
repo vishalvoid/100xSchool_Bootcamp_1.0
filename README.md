@@ -1,19 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=600&lines=100xDevs+Cohort+4.0" alt="100xDevs Cohort 4.0" />
+# 100xSchool Bootcamp 1.0 Notes
 
-# 100xSchool Combined Bootcamp Notes & Projects
+### Web Dev & DevOps • Web3 • AI/ML • DSA
 
-### 01_web-development • 02_devops • 04_web3 • 03_ai-ml
-
-[![Cohort](https://img.shields.io/badge/Cohort-4.0-blue?style=flat-square&logo=google-classroom&logoColor=white)](https://100xdevs.com)
-[![Instructor](https://img.shields.io/badge/Taught_by-Harkirat_Singh-orange?style=flat-square&logo=dev.to&logoColor=white)](https://twitter.com/kirat_tw)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square&logo=opensourceinitiative&logoColor=white)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/username/repo?style=flat-square&logo=github)](https://github.com/username/repo/stargazers)
+[![Cohort](https://img.shields.io/badge/Cohort-1.0-blue?style=flat-square)](https://100xdevs.com)
+[![Instructor](https://img.shields.io/badge/Taught_by-Harkirat_Singh-orange?style=flat-square)](https://twitter.com/kirat_tw)
 
 *Comprehensive notes, assignments, and projects from the 100xDevs bootcamp*
 
-[📖 View Syllabus](#-course-syllabus) • [🚀 Quick Start](#-quick-start) • [💬 Discussions](https://github.com/username/repo/discussions)
+
 
 ---
 
@@ -21,9 +17,90 @@
 
 ## 📌 About
 
-This repository documents my journey through the **100xDevs Cohort 4.0** — a comprehensive full-stack development bootcamp led by [Harkirat Singh](https://twitter.com/kirat_tw). The course covers modern development practices across multiple domains with hands-on projects and real-world applications.
+This repository documents my journey through the **100xDevs Cohort 1.0** bootcamp. The course covers modern development practices across Web Development & DevOps, Web3, AI/ML, and Data Structures & Algorithms with hands-on projects and real-world applications.
 
 > **Note:** This is a personal learning repository and is not officially affiliated with 100xDevs. Use it as a supplement to the actual course material.
+---
+
+## 📊 Progress Tracker
+
+### 💻 Data Structures & Algorithms Bootcamp
+
+| Week | Module | Topics | Status |
+|:----:|--------|--------|:------:|
+| Week 01 | Basics | Arrays, Strings, Time Complexity | 📝 |
+| Week 02 | Searching & Sorting | Binary Search, Merge Sort, Quick Sort | 📝 |
+| Week 03 | Linked Lists | Singly, Doubly, Circular Linked Lists | 📝 |
+| Week 04 | Stacks & Queues | Implementation & Applications | 📝 |
+| Week 05 | Trees | Binary Trees, BST, Tree Traversals | 📝 |
+
+<div align="right">
+
+[📋 View full DSA syllabus →](./00_dsa/README.md)
+
+</div>
+
+---
+
+### 🌐 Web Development & DevOps Bootcamp
+
+| Week | Module | Topics | Status |
+|:----:|--------|--------|:------:|
+| Week 01 | Foundations | HTML, CSS, JavaScript Basics | 📝 |
+| Week 02 | JavaScript | Advanced JS, DOM Manipulation | 📝 |
+| Week 03 | React | Components, Hooks, State Management | 📝 |
+| Week 04 | Backend | Node.js, Express, APIs | 📝 |
+| Week 05 | Docker | Containerization & Images | 📝 |
+
+<div align="right">
+
+[📋 View full Web Dev & DevOps syllabus →](./01_web-development/README.md)
+
+</div>
+
+---
+
+### 🔗 Web3 Bootcamp
+
+| Week | Module | Topics | Status |
+|:----:|--------|--------|:------:|
+| Week 01 | Blockchain | Fundamentals & Architecture | 📝 |
+| Week 02 | Solana | Wallet, Tokens, Programs | 📝 |
+| Week 03 | Smart Contracts | Development & Testing | 📝 |
+| Week 04 | DeFi | Protocols & Integration | 📝 |
+| Week 05 | dApps | Full-stack Web3 Apps | 📝 |
+
+<div align="right">
+
+[📋 View full Web3 syllabus →](./04_web3/README.md)
+
+</div>
+
+---
+
+### 🤖 AI/ML Bootcamp
+
+| Week | Module | Topics | Status |
+|:----:|--------|--------|:------:|
+| **Week 00** | **Warmup** | [AI/ML Fundamentals](./03_ai-ml/Week_00_warmup/01_ai_ml_fundamentals.md) | ✅ |
+| **Week 00** | **Warmup** | [Introduction to Large Language Models](./03_ai-ml/Week_00_warmup/02_Intro_to_Large_Language_Models.md) | ✅ |
+| Week 01 | Neural Networks | Fundamentals & Architectures | ⏳ |
+| Week 02 | LLMs | Transformers & Fine-tuning | 📝 |
+| Week 03 | AI Agents | Frameworks & Autonomous Systems | 📝 |
+
+<div align="right">
+
+[📋 View full AI/ML syllabus →](./03_ai-ml/README.md)
+
+</div>
+
+---
+
+**Legend:** ✅ Complete • ⏳ In Progress • 📝 Planned
+
+**Last Updated:** January 2024
+
+---
 
 ## 📚 Course Syllabus
 
@@ -68,95 +145,58 @@ Click on any track to view the detailed syllabus:
 </tr>
 </table>
 
-## 📂 Repository Structure
-
-```
-📦 100xSchool-bootcamp-1
-├── 📁 01_web-development/
-│   ├── Week-01-html-css/
-│   ├── Week-02-javascript/
-│   ├── Week-03-react/
-│   ├── Week-04-nodejs-express/
-│   └── extras/
-│
-├── 📁 02_devops/
-│   ├── Week-01-docker/
-│   ├── Week-02-kubernetes/
-│   ├── Week-03-ci-cd/
-│   └── extras/
-│
-├── 📁 04_web3/
-│   ├── Week-01-solana/
-│   ├── Week-02-smart-contracts/
-│   ├── Week-03-defi/
-│   └── extras/
-│
-├── 📁 03_ai-ml/
-│   ├── Week-01-neural-networks/
-│   ├── Week-02-llms/
-│   ├── Week-03-agents/
-│   └── extras/
-│
-├── 📁 assets/              # Syllabus images and resources
-├── 📁 syllabus/            # Detailed syllabus markdown files
-└── 📁 resources/  
-```
-
-## 🚀 Quick Start
-
-### Clone the Repository
-```bash
-git clone https://github.com/vishalvoid/100xSchool-Bootcamp-1.0-webdev-devops-web3-ai-notes
-
-cd 100xSchool-Bootcamp-1.0-webdev-devops-web3-ai-notes
-```
-
-### Navigate by Topic
-```bash
-# For 01_web-development
-cd 01_web-development/
-
-# For 02_devops
-cd 02_devops/
-
-# For 03_ai-ml
-cd 03_ai-ml/
-
-# For 04_web3
-cd 04_web3/
-
-```
-
-*Last updated: December 2025*
-
 ## 🤝 Contributing
 
-Found an error or have better explanations? Contributions are welcome!
-
+Contributions are welcome! Feel free to:
 1. Fork this repository
-2. Create your feature branch (`git checkout -b feature/improvement`)
-3. Commit your changes (`git commit -m 'Add helpful explanation'`)
-4. Push to the branch (`git push origin feature/improvement`)
-5. Open a Pull Request
+2. Create your feature branch
+3. Submit a pull request
 
-## ⭐ Show Your Support
-
-If this repository helps you:
-- Give it a ⭐️ star
-- Share with fellow learners
-- Fork for your own notes
+---
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
+
+---
 
 ## 🙏 Acknowledgments
 
 - [Harkirat Singh](https://twitter.com/kirat_tw) for creating the 100xDevs bootcamp
 - The 100xDevs community for support and collaboration
-- All contributors who've helped improve this repository
 
-## 📬 Connect
+---
+
+## 📂 Repository Structure
+
+```
+100xSchool_Bootcamp_1.0/
+├── 00_dsa/                 # Data Structures & Algorithms
+├── 01_web-development/     # Web Development & DevOps bootcamp
+├── 02_devops/              # (Merged with Web Development)
+├── 03_ai-ml/               # AI/ML bootcamp
+│   └── Week_00_warmup/     # ← Currently here
+│       ├── 01_ai_ml_fundamentals.md
+│       └── 02_Intro_to_Large_Language_Models.md
+└── 04_web3/                # Web3 bootcamp
+```
+
+---
+
+## 🚀 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/vishalvoid/100xSchool-Bootcamp-1.0-webdev-devops-web3-ai-notes
+
+# Navigate to the repository
+cd 100xSchool-Bootcamp-1.0-webdev-devops-web3-ai-notes
+
+# Explore specific track
+cd 03_ai-ml/Week_00_warmup
+```
+
+---
 
 <div align="center">
 
@@ -164,16 +204,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalvoid)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tech.vishalkrsingh@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-
-**[Back to Top ⬆](#)**
-
-Made with ❤️ by [Vishal Kumar Singh]
-
-*Learning in public • Building in public*
+Made with ❤️ by Vishal Kumar Singh
 
 </div>
