@@ -328,25 +328,5 @@ Gradient Descent means:
 
 ---
 
-## 11. Final Summary
 
-* Neural Networks mimic human brain
-* Learn by adjusting weights
-* Use activation functions
-* Trained using loss + backpropagation
-* Power modern AI systems
-
-### 11.1 Tip for You (Beginner Friendly)
-
-> Don't fear math or terms. Start slow.
-> Understanding **concepts** matters more than formulas.
-
-### 11.2 If you want:
-
-* Code examples
-* Diagrams
-* Hindi version
-* Project ideas
-
-Just tell me!
 
