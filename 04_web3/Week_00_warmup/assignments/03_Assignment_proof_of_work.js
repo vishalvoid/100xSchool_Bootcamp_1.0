@@ -16,8 +16,13 @@ const findHashwithprefix = (text, prefix) => {
   }
 };
 
-const result = findHashwithprefix("100xdevs", "00000");
+const inputString = `harkirat => Raman | Rs 100
+Ram => Ankit | Rs 10`;
+
+const result = findHashwithprefix(inputString, "0000");
 console.log(result);
 
 // Question :
-// What if I ask you that the input string should start with 100xdevs ? How would the code change?
+// What if I ask you to find a nonce for the following input -
+// harkirat => Raman | Rs 100
+// Ram => Ankit | Rs 10
