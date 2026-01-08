@@ -7,7 +7,7 @@
 [![Cohort](https://img.shields.io/badge/Cohort-4.0-blue?style=flat-square)](https://100xdevs.com)
 [![Instructor](https://img.shields.io/badge/Taught_by-Harkirat_Singh-orange?style=flat-square)](https://twitter.com/kirat_tw)
 
-_Comprehensive notes, assignments, and projects from the 100xDevs bootcamp_
+_Comprehensive notes, assignments, and projects from the 100xSchool bootcamp_
 
 ***
 
@@ -15,7 +15,7 @@ _Comprehensive notes, assignments, and projects from the 100xDevs bootcamp_
 
 > **Note:** *This is a personal learning repository and is not officially affiliated with 100xDevs. Use it as a supplement to the actual course material.*
 
-## **=> Web3 and Blockchain Bootcamp**&#x20;
+## **Web3 and Blockchain Bootcamp**&#x20;
 
 ### Week 0 : Warmup Content
 
@@ -49,9 +49,7 @@ _Comprehensive notes, assignments, and projects from the 100xDevs bootcamp_
 
 </div>
 
-***
-
-## **=> AI and Machine Learning Bootcamp**
+## **AI and Machine Learning Bootcamp**
 
 ### Week 0 : Warmup Content
 
@@ -80,8 +78,6 @@ _Comprehensive notes, assignments, and projects from the 100xDevs bootcamp_
 
 </div>
 
-***
-
 ### **Data Structures & Algorithms Bootcamp**
 
 > _Coming Soon_
@@ -91,8 +87,6 @@ _Comprehensive notes, assignments, and projects from the 100xDevs bootcamp_
 [View full DSA syllabus →](./00_dsa/README.md)
 
 </div>
-
-***
 
 ### **Web Development & DevOps Bootcamp**
 
