@@ -78,9 +78,9 @@ _Comprehensive notes, assignments, and projects from the 100xSchool bootcamp_
 
 </div>
 
-### **Data Structures & Algorithms Bootcamp**
+## **Data Structures & Algorithms Bootcamp**
 
-#### Week 0 : Orientation Content
+### Week 0 : Orientation Content
 
 - **`DSA Orientation & Syllabus`**
 
