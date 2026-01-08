@@ -1,129 +1,135 @@
 <div align="center">
 
-# 100xSchool Bootcamp 1.0 Notes & Assignments
+# Notes Respository : 100xSchool Bootcamp 1.0
 
 ### Web Dev & DevOps • Web3 • AI/ML • DSA
 
-[![Cohort](https://img.shields.io/badge/Cohort-1.0-blue?style=flat-square)](https://100xdevs.com)
+[![Cohort](https://img.shields.io/badge/Cohort-4.0-blue?style=flat-square)](https://100xdevs.com)
 [![Instructor](https://img.shields.io/badge/Taught_by-Harkirat_Singh-orange?style=flat-square)](https://twitter.com/kirat_tw)
 
-*Comprehensive notes, assignments, and projects from the 100xDevs bootcamp*
+_Comprehensive notes, assignments, and projects from the 100xDevs bootcamp_
 
----
+***
 
 </div>
 
-## 📌 About
+> **Note:** *This is a personal learning repository and is not officially affiliated with 100xDevs. Use it as a supplement to the actual course material.*
 
-This repository documents my journey through the **100xDevs Cohort 1.0** bootcamp. The course covers modern development practices across Web Development & DevOps, Web3, AI/ML, and Data Structures & Algorithms with hands-on projects and real-world applications.
+## **=> Web3 and Blockchain Bootcamp**&#x20;
 
----
+### Week 0 : Warmup Content
 
-## 📊 Progress Tracker
+* **`Blockchain Basics`**
 
-### [💻 Data Structures & Algorithms Bootcamp](./00_dsa/README.md)
+  * [What is Blockchain?](./04_web3/Week_00_warmup/notes/01_blockchain_and_web3_fundamentals_orientation.md#1-what-is-blockchain)
+  * [How Blockchain Works](./04_web3/Week_00_warmup/notes/01_blockchain_and_web3_fundamentals_orientation.md#2-how-blockchain-works)
+  * [Types of Blockchains](./04_web3/Week_00_warmup/notes/01_blockchain_and_web3_fundamentals_orientation.md#3-types-of-blockchains)
+  * [Consensus Mechanisms](./04_web3/Week_00_warmup/notes/01_blockchain_and_web3_fundamentals_orientation.md#4-consensus-mechanisms)
+  * [Smart Contracts Introduction](./04_web3/Week_00_warmup/notes/01_blockchain_and_web3_fundamentals_orientation.md#5-smart-contracts-introduction)
+  * [Real-World Applications](./04_web3/Week_00_warmup/notes/01_blockchain_and_web3_fundamentals_orientation.md#6-real-world-applications)
 
-| Week | Module | Topics | Type | Status |
-|:----:|--------|--------|:----:|:------:|
-| Week 01 | [Basics](./00_dsa/Week-01/README.md) | Arrays, Strings, Time Complexity | 📝 Notes | 📝 |
-| Week 02 | [Searching & Sorting](./00_dsa/Week-02/README.md) | Binary Search, Merge Sort, Quick Sort | 📝 Notes | 📝 |
-| Week 03 | [Linked Lists](./00_dsa/Week-03/README.md) | Singly, Doubly, Circular Linked Lists | 📝 Notes | 📝 |
-| Week 04 | [Stacks & Queues](./00_dsa/Week-04/README.md) | Implementation & Applications | 📝 Notes | 📝 |
-| Week 05 | [Trees](./00_dsa/Week-05/README.md) | Binary Trees, BST, Tree Traversals | 💼 Assignment | 📝 |
+* **`Cryptography Fundamentals`**
+
+  * [Hash Functions](./04_web3/Week_00_warmup/notes/02_public_key_cryptography.md#1-hash-functions)
+  * [Public Key Cryptography](./04_web3/Week_00_warmup/notes/02_public_key_cryptography.md#2-public-key-cryptography)
+  * [Digital Signatures](./04_web3/Week_00_warmup/notes/02_public_key_cryptography.md#3-digital-signatures)
+  * [Encryption and Decryption](./04_web3/Week_00_warmup/notes/02_public_key_cryptography.md#4-encryption-and-decryption)
+  * [Merkle Trees](./04_web3/Week_00_warmup/notes/02_public_key_cryptography.md#5-merkle-trees)
+  * [Proof of Work Explained](./04_web3/Week_00_warmup/notes/02_public_key_cryptography.md#6-proof-of-work-explained)
+
+* **`Assignments`**
+
+  * [Assignment: Proof of Work #1](./04_web3/Week_00_warmup/assignments/01_Assignment_proof_of_work.js)
+  * [Assignment: Proof of Work #2](./04_web3/Week_00_warmup/assignments/02_Assignment_proof_of_work.js)
+  * [Assignment: Proof of Work #3](./04_web3/Week_00_warmup/assignments/03_Assignment_proof_of_work.js)
 
 <div align="right">
 
-[📚 View all DSA topics & problems →](./00_dsa/README.md)
+[View full Web3 Notes →](./04_web3/README.md)
 
 </div>
 
----
+***
 
-### [🌐 Web Development & DevOps Bootcamp](./01_web-development/README.md)
+## **=> AI and Machine Learning Bootcamp**
 
-| Week | Module | Topics | Type | Status |
-|:----:|--------|--------|:----:|:------:|
-| Week 01 | [Foundations](./01_web-development/Week-01/README.md) | HTML, CSS, JavaScript Basics | 📝 Notes | 📝 |
-| Week 02 | [JavaScript](./01_web-development/Week-02/README.md) | Advanced JS, DOM Manipulation | 📝 Notes | 📝 |
-| Week 03 | [React](./01_web-development/Week-03/README.md) | Components, Hooks, State Management | 📝 Notes | 📝 |
-| Week 04 | [Backend](./01_web-development/Week-04/README.md) | Node.js, Express, APIs | 📝 Notes | 📝 |
-| Week 05 | [Docker](./01_web-development/Week-05/README.md) | Containerization & Images | 💼 Assignment | 📝 |
+### Week 0 : Warmup Content
+
+* **`AI/ML Fundamentals`**
+
+  * [What is AI, ML, and Deep Learning?](./03_ai-ml/Week_00_warmup/01_ai_ml_fundamentals.md#1-what-is-artificial-intelligence-ai)
+  * [Neural Networks and Architecture](./03_ai-ml/Week_00_warmup/01_ai_ml_fundamentals.md#4-what-is-a-neural-network)
+  * [Core Components (Neurons, Weights, Bias, Activation Functions)](./03_ai-ml/Week_00_warmup/01_ai_ml_fundamentals.md#5-core-components)
+  * [Training Process (Loss Functions, Backpropagation, Gradient Descent)](./03_ai-ml/Week_00_warmup/01_ai_ml_fundamentals.md#6-training-process)
+  * [Types of Neural Networks (Feedforward, CNN, RNN, LSTM, Transformer)](./03_ai-ml/Week_00_warmup/01_ai_ml_fundamentals.md#7-types-of-neural-networks)
+  * [Real-Life Applications and Tools](./03_ai-ml/Week_00_warmup/01_ai_ml_fundamentals.md#8-real-life-applications)
+
+* **`Introduction to Large Language Models`**
+
+  * [What is an LLM? (Parameters and Architecture)](./03_ai-ml/Week_00_warmup/02_Intro_to_Large_Language_Models.md#1-what-is-a-large-language-model)
+  * [Training Process and Scaling Laws](./03_ai-ml/Week_00_warmup/02_Intro_to_Large_Language_Models.md#2-how-do-we-get-these-parameters)
+  * [Base Models vs Assistant Models (Pre-training and Fine-tuning)](./03_ai-ml/Week_00_warmup/02_Intro_to_Large_Language_Models.md#6-from-base-model-to-assistant-model)
+  * [How LLMs Work (Next Word Prediction)](./03_ai-ml/Week_00_warmup/02_Intro_to_Large_Language_Models.md#3-what-does-the-neural-network-actually-do)
+  * [Tool Use and Multimodality](./03_ai-ml/Week_00_warmup/02_Intro_to_Large_Language_Models.md#9-tool-use-and-capabilities)
+  * [Future Directions (System 2 Thinking, Self-Improvement)](./03_ai-ml/Week_00_warmup/02_Intro_to_Large_Language_Models.md#11-future-directions)
+  * [Security Challenges (Jailbreaks, Prompt Injection, Data Poisoning)](./03_ai-ml/Week_00_warmup/02_Intro_to_Large_Language_Models.md#13-security-challenges)
 
 <div align="right">
 
-[📚 Explore full-stack development journey →](./01_web-development/README.md)
+[View full AI/ML Notes→](./03_ai-ml/README.md)
 
 </div>
 
----
+***
 
-### [🔗 Web3 Bootcamp](./04_web3/README.md)
+### **Data Structures & Algorithms Bootcamp**
 
-| Week | Module | Topics | Type | Status |
-|:----:|--------|--------|:----:|:------:|
-| Week 01 | [Blockchain](./04_web3/Week-01/README.md) | Fundamentals & Architecture | 📝 Notes | 📝 |
-| Week 02 | [Solana](./04_web3/Week-02/README.md) | Wallet, Tokens, Programs | 📝 Notes | 📝 |
-| Week 03 | [Smart Contracts](./04_web3/Week-03/README.md) | Development & Testing | 📝 Notes | 📝 |
-| Week 04 | [DeFi](./04_web3/Week-04/README.md) | Protocols & Integration | 📝 Notes | 📝 |
-| Week 05 | [dApps](./04_web3/Week-05/README.md) | Full-stack Web3 Apps | 💼 Assignment | 📝 |
+> _Coming Soon_
 
 <div align="right">
 
-[📚 Discover blockchain & decentralized apps →](./04_web3/README.md)
+[View full DSA syllabus →](./00_dsa/README.md)
 
 </div>
 
----
+***
 
-### [🤖 AI/ML Bootcamp](./03_ai-ml/README.md)
+### **Web Development & DevOps Bootcamp**
 
-| Week | Module | Topics | Type | Status |
-|:----:|--------|--------|:----:|:------:|
-| **Week 00** | **[Warmup](./03_ai-ml/Week_00_warmup/README.md)** | [AI/ML Fundamentals](./03_ai-ml/Week_00_warmup/01_ai_ml_fundamentals.md) | 📝 Notes | ✅ |
-| **Week 00** | **[Warmup](./03_ai-ml/Week_00_warmup/README.md)** | [Introduction to Large Language Models](./03_ai-ml/Week_00_warmup/02_Intro_to_Large_Language_Models.md) | 📝 Notes | ✅ |
-| Week 01 | [Neural Networks](./03_ai-ml/Week-01/README.md) | Fundamentals & Architectures | 📝 Notes | ⏳ |
-| Week 02 | [LLMs](./03_ai-ml/Week-02/README.md) | Transformers & Fine-tuning | 📝 Notes | 📝 |
-| Week 03 | [AI Agents](./03_ai-ml/Week-03/README.md) | Frameworks & Autonomous Systems | 💼 Assignment | 📝 |
+> _Coming Soon_
 
 <div align="right">
 
-[📚 Deep dive into AI & machine learning →](./03_ai-ml/README.md)
+[View full Web Dev syllabus →](./01_web-development/README.md)
 
 </div>
 
----
+***
 
-**Legend:** ✅ Complete • ⏳ In Progress • 📝 Planned
-
-**Type:** 📝 Notes • 💼 Assignment
-
-**Last Updated:** January 2024
-
----
-
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to:
+
 1. Fork this repository
 2. Create your feature branch
 3. Submit a pull request
 
----
+***
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License.
 
----
+***
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
-- [Harkirat Singh](https://twitter.com/kirat_tw) for creating the 100xDevs bootcamp
-- The 100xDevs community for support and collaboration
+* [Harkirat Singh](https://twitter.com/kirat_tw) for creating the 100xDevs bootcamp
+* The 100xDevs community for support and collaboration
 
----
+***
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 100xSchool_Bootcamp_1.0/
@@ -131,35 +137,43 @@ This project is licensed under the MIT License.
 ├── 01_web-development/     # Web Development & DevOps bootcamp
 ├── 02_devops/              # (Merged with Web Development)
 ├── 03_ai-ml/               # AI/ML bootcamp
-│   └── Week_00_warmup/     # ← Currently here
+│   └── Week_00_warmup/
 │       ├── 01_ai_ml_fundamentals.md
 │       └── 02_Intro_to_Large_Language_Models.md
 └── 04_web3/                # Web3 bootcamp
+    └── Week_00_warmup/
+        ├── notes/
+        │   ├── 01_blockchain_and_web3_fundamentals_orientation.md
+        │   └── 02_public_key_cryptography.md
+        └── assignments/
+            ├── 01_Assignment_proof_of_work.js
+            ├── 02_Assignment_proof_of_work.js
+            └── 03_Assignment_proof_of_work.js
 ```
 
----
+***
 
-## 🚀 Quick Start
+## Quick Start
 
-```bash
+```Shell
 # Clone the repository
-git clone https://github.com/vishalvoid/100xSchool-Bootcamp-1.0-webdev-devops-web3-ai-notes
+git clone https://github.com/vishalvoid/100xSchool-Bootcamp-1.s
 
 # Navigate to the repository
-cd 100xSchool-Bootcamp-1.0-webdev-devops-web3-ai-notes
+cd 100xSchool-Bootcamp-1.0
 
-# Explore specific track
+# Explore specific bootcamp
 cd 03_ai-ml/Week_00_warmup
 ```
 
----
+***
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishalvoid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalvoid)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tech.vishalkrsingh@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/vishalvoid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/vishalvoid)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tech.vishalkrsingh@gmail.com)
 
-Made with ❤️ by Vishal Kumar Singh
+Made with love by Vishal Kumar Singh
 
 </div>

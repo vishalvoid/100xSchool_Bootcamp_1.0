@@ -1,20 +1,35 @@
-# 04_web3 — Web3 Development Track
+# Web3 & Blockchain Bootcamp
 
-This folder contains notes, assignments, and projects from the Web3 Development track of 100xDevs Cohort 4.0.
-
-## Contents
-
-- **Week-01-solana**: Solana blockchain fundamentals, wallets, and transactions
-- **Week-02-smart-contracts**: Smart contract development and deployment
-- **Week-03-defi**: DeFi protocols, liquidity pools, and decentralized exchanges
-- **extras**: Additional resources, practice problems, and bonus content
-
-## Progress
-
-- [ ] Week 01: Solana
-- [ ] Week 02: Smart Contracts
-- [ ] Week 03: DeFi
+Notes and assignments from the Web3 & Blockchain track of 100xSchool Bootcamp 1.0.
 
 ---
 
-_Part of the 100xDevs Cohort 4.0 bootcamp_
+### Week 0 : Warmup Content
+
+- **`Blockchain Basics`**
+
+  - [What is Blockchain?](Week_00_warmup/notes/01_blockchain_and_web3_fundamentals_orientation.md#1-what-is-blockchain)
+  - [How Blockchain Works](Week_00_warmup/notes/01_blockchain_and_web3_fundamentals_orientation.md#2-how-blockchain-works)
+  - [Types of Blockchains](Week_00_warmup/notes/01_blockchain_and_web3_fundamentals_orientation.md#3-types-of-blockchains)
+  - [Consensus Mechanisms](Week_00_warmup/notes/01_blockchain_and_web3_fundamentals_orientation.md#4-consensus-mechanisms)
+  - [Smart Contracts Introduction](Week_00_warmup/notes/01_blockchain_and_web3_fundamentals_orientation.md#5-smart-contracts-introduction)
+  - [Real-World Applications](Week_00_warmup/notes/01_blockchain_and_web3_fundamentals_orientation.md#6-real-world-applications)
+
+- **`Cryptography Fundamentals`**
+
+  - [Hash Functions](Week_00_warmup/notes/02_public_key_cryptography.md#1-hash-functions)
+  - [Public Key Cryptography](Week_00_warmup/notes/02_public_key_cryptography.md#2-public-key-cryptography)
+  - [Digital Signatures](Week_00_warmup/notes/02_public_key_cryptography.md#3-digital-signatures)
+  - [Encryption and Decryption](Week_00_warmup/notes/02_public_key_cryptography.md#4-encryption-and-decryption)
+  - [Merkle Trees](Week_00_warmup/notes/02_public_key_cryptography.md#5-merkle-trees)
+  - [Proof of Work Explained](Week_00_warmup/notes/02_public_key_cryptography.md#6-proof-of-work-explained)
+
+- **`Assignments`**
+
+  - [Assignment: Proof of Work #1](Week_00_warmup/assignments/01_Assignment_proof_of_work.js)
+  - [Assignment: Proof of Work #2](Week_00_warmup/assignments/02_Assignment_proof_of_work.js)
+  - [Assignment: Proof of Work #3](Week_00_warmup/assignments/03_Assignment_proof_of_work.js)
+
+---
+
+_Part of the 100xDevs Cohort 1.0 bootcamp_
