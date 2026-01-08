@@ -84,13 +84,12 @@ _Comprehensive notes, assignments, and projects from the 100xSchool bootcamp_
 
 - **`DSA Orientation & Syllabus`**
 
-  - [Resources & Links](Week_00_Orientation/Orientation_notes_and_syllabus.md#resources)
-  - [Course Overview](Week_00_Orientation/Orientation_notes_and_syllabus.md#course-overview)
-  - [Language Recommendations](Week_00_Orientation/Orientation_notes_and_syllabus.md#language-recommendations)
-  - [Contest Recommendations](Week_00_Orientation/Orientation_notes_and_syllabus.md#contest-recommendations-for-experienced-learners)
-  - [Revision Strategy](Week_00_Orientation/Orientation_notes_and_syllabus.md#revision-strategy-and-resources)
-  - [Real-World Applications of DSA](Week_00_Orientation/Orientation_notes_and_syllabus.md#real-world-applications-of-dsa)
-  - [Problem-Solving Approach](Week_00_Orientation/Orientation_notes_and_syllabus.md#problem-solving-approach)
+  - [Course Overview](./Week_00_Orientation/Orientation_notes_and_syllabus.md#course-overview)
+  - [Language Recommendations](./05_DSA/Week_00_Orientation/Orientation_notes_and_syllabus.md#language-recommendations)
+  - [Contest Recommendations](./05_DSA/Week_00_Orientation/Orientation_notes_and_syllabus.md#contest-recommendations-for-experienced-learners)
+  - [Revision Strategy](./05_DSA/Week_00_Orientation/Orientation_notes_and_syllabus.md#revision-strategy-and-resources)
+  - [Real-World Applications of DSA](./05_DSA/Week_00_Orientation/Orientation_notes_and_syllabus.md#real-world-applications-of-dsa)
+  - [Problem-Solving Approach](./05_DSA/Week_00_Orientation/Orientation_notes_and_syllabus.md#problem-solving-approach)
 
 - **`Resources`**
 

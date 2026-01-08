@@ -8,7 +8,6 @@ Notes and resources from the DSA track of 100xSchool Bootcamp 1.0.
 
 - **`DSA Orientation & Syllabus`**
 
-  - [Resources & Links](Week_00_Orientation/Orientation_notes_and_syllabus.md#resources)
   - [Course Overview](Week_00_Orientation/Orientation_notes_and_syllabus.md#course-overview)
   - [Language Recommendations](Week_00_Orientation/Orientation_notes_and_syllabus.md#language-recommendations)
   - [Contest Recommendations](Week_00_Orientation/Orientation_notes_and_syllabus.md#contest-recommendations-for-experienced-learners)
