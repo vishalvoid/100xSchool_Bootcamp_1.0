@@ -25,6 +25,15 @@ Notes from the AI & Machine Learning track of 100xSchool Bootcamp 1.0.
   - [Future Directions (System 2 Thinking, Self-Improvement)](Week_00_warmup/02_Intro_to_Large_Language_Models.md#11-future-directions)
   - [Security Challenges (Jailbreaks, Prompt Injection, Data Poisoning)](Week_00_warmup/02_Intro_to_Large_Language_Models.md#13-security-challenges)
 
+- **`AI and ML Orientation - Meet Your Instructor`**
+
+  - [Course Overview & Goals](Week_00_warmup/03_meet_your_instructor_orientation.md#course-overview)
+  - [What You'll Learn (Theory & Applied)](Week_00_warmup/03_meet_your_instructor_orientation.md#what-youll-learn)
+  - [Career & Job Prep](Week_00_warmup/03_meet_your_instructor_orientation.md#career--job-prep)
+  - [Prerequisites & Tools](Week_00_warmup/03_meet_your_instructor_orientation.md#prerequisites--tools)
+  - [Key Frameworks & Concepts](Week_00_warmup/03_meet_your_instructor_orientation.md#key-frameworks--concepts)
+  - [Project Ideas That Stand Out](Week_00_warmup/03_meet_your_instructor_orientation.md#project-ideas-that-stand-out)
+
 ---
 
 _Part of the 100xDevs Cohort 1.0 bootcamp_

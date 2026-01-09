@@ -4,7 +4,7 @@ Notes and assignments from the Web3 & Blockchain track of 100xSchool Bootcamp 1.
 
 ---
 
-### Week 0 : Warmup Content
+### Week 0 : Warmup Content & Orientation
 
 - **`Blockchain Basics`**
 
