@@ -7,7 +7,7 @@
 [![Cohort](https://img.shields.io/badge/Cohort-4.0-blue?style=flat-square)](https://100xdevs.com)
 [![Instructor](https://img.shields.io/badge/Taught_by-Harkirat_Singh-orange?style=flat-square)](https://twitter.com/kirat_tw)
 
-_Comprehensive notes, assignments, and projects from the 100xSchool bootcamp_
+_Comprehensive notes, assignments, and projects from the 100xbootcamp_
 
 ---
 
@@ -111,7 +111,27 @@ _Comprehensive notes, assignments, and projects from the 100xSchool bootcamp_
 
 ### **Web Development & DevOps Bootcamp**
 
-> _Coming Soon_
+### Week 0 : Warmup & Orientation Content
+
+- **`HTML & CSS Foundation`**
+
+  - [What is HTML?](./01_web-development/Week_00_Warmup_Orientation/01_html_css_foundation.md#1-what-is-html)
+  - [What is CSS?](./01_web-development/Week_00_Warmup_Orientation/01_html_css_foundation.md#2-what-is-css)
+  - [Basic HTML Structure](./01_web-development/Week_00_Warmup_Orientation/01_html_css_foundation.md#3-basic-html-structure)
+  - [HTML Tags - The Building Blocks](./01_web-development/Week_00_Warmup_Orientation/01_html_css_foundation.md#4-html-tags---the-building-blocks)
+  - [CSS Selectors & Properties](./01_web-development/Week_00_Warmup_Orientation/01_html_css_foundation.md#8-css-selectors---targeting-elements)
+  - [Flexbox - Easy Layouts](./01_web-development/Week_00_Warmup_Orientation/01_html_css_foundation.md#11-flexbox---easy-layouts)
+  - [Responsive Design - Media Queries](./01_web-development/Week_00_Warmup_Orientation/01_html_css_foundation.md#13-responsive-design---media-queries)
+
+- **`JavaScript Foundation`**
+
+  - [Why Languages?](./01_web-development/Week_00_Warmup_Orientation/02_Javascript_foundation.md#1-why-languages-)
+  - [Interpreted vs Compiled Languages](./01_web-development/Week_00_Warmup_Orientation/02_Javascript_foundation.md#2-interpreted-vs-compiled-languages-)
+  - [Single-Threaded Nature of JavaScript](./01_web-development/Week_00_Warmup_Orientation/02_Javascript_foundation.md#5-single-threaded-nature-of-javascript)
+  - [Primitives (Number, String, Boolean, Arrays, Objects)](./01_web-development/Week_00_Warmup_Orientation/02_Javascript_foundation.md#6-simple-primitives-in-js-number-string-booleans)
+  - [Functions in JavaScript](./01_web-development/Week_00_Warmup_Orientation/02_Javascript_foundation.md#8-functions-in-javascript)
+  - [Async vs Sync Functions](./01_web-development/Week_00_Warmup_Orientation/02_Javascript_foundation.md#9-async-functions-vs-sync-functions)
+  - [Callbacks, Promises & Async/Await](./01_web-development/Week_00_Warmup_Orientation/02_Javascript_foundation.md#10-callbacks--promises-its-just-a-class-like-date)
 
 <div align="right">
 
