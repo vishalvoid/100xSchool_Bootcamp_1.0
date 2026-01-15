@@ -103,6 +103,20 @@ _Comprehensive notes, assignments, and projects from the 100xbootcamp_
   - [DSA Sample Sheet](https://docs.google.com/spreadsheets/d/1j-OMhne7DF7CW711K-KDRCN3k-Ptc3HQdzghthBZ2vg/edit?usp=sharing)
   - [DSA Orientation Slides](./05_DSA/Week_00_Orientation/100xSchool_dsa_orientation_slide.pdf)
 
+### Week 1 : Introduction to C++
+
+- **`C++ Fundamentals`**
+
+  - [Setting Up C++ Environment](./05_DSA/Week_01_Introduction_to_C++/01_Session_notes.md#1-setting-up-c-environment)
+  - [Variables and Data Types](./05_DSA/Week_01_Introduction_to_C++/01_Session_notes.md#3-variables-and-data-types)
+  - [Input/Output Operations](./05_DSA/Week_01_Introduction_to_C++/01_Session_notes.md#4-input-and-output-operations)
+  - [Operators in C++](./05_DSA/Week_01_Introduction_to_C++/01_Session_notes.md#5-operators-in-c)
+  - [Conditional Statements & Loops](./05_DSA/Week_01_Introduction_to_C++/01_Session_notes.md#6-conditional-statements)
+
+- **`Assignments`**
+
+  - [14 Problems Solved - View All Solutions](./05_DSA/Week_01_Introduction_to_C++/02_Assignments.md)
+
 <div align="right">
 
 [View full DSA Notes →](./05_DSA/Readme.md)
