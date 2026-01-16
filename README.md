@@ -115,7 +115,7 @@ _Comprehensive notes, assignments, and projects from the 100xbootcamp_
 
 - **`Assignments`**
 
-  - [14 Problems Solved - View All Solutions](./05_DSA/Week_01_Introduction_to_C++/02_Assignments.md)
+  - [18/18 Problems Solved - View All Solutions](./05_DSA/Week_01_Introduction_to_C++/02_Assignments.md)
 
 <div align="right">
 

@@ -35,7 +35,7 @@ Notes and resources from the DSA track of 100xSchool Bootcamp 1.0.
   - [Loops in C++](Week_01_Introduction_to_C++/01_Session_notes.md#7-loops-in-c)
   - [Pattern Printing Techniques](Week_01_Introduction_to_C++/01_Session_notes.md#8-pattern-printing)
 
-- **`Assignments - 14 Problems Solved`**
+- **`Assignments - 18/18 Problems Solved`**
 
   - [View All Problems & Solutions](Week_01_Introduction_to_C++/02_Assignments.md)
   - Topics: Basic I/O, Operators, Conditionals, Loops, Pattern Printing
