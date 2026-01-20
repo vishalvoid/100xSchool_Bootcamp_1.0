@@ -20,7 +20,6 @@ _Comprehensive notes, assignments, and projects from the 100xbootcamp_
 ### Week 0 : Warmup Content
 
 - **`Blockchain Basics`**
-
   - [What is Blockchain?](./04_web3/Week_00_warmup/notes/01_blockchain_and_web3_fundamentals_orientation.md#1-what-is-blockchain)
   - [How Blockchain Works](./04_web3/Week_00_warmup/notes/01_blockchain_and_web3_fundamentals_orientation.md#2-how-blockchain-works)
   - [Types of Blockchains](./04_web3/Week_00_warmup/notes/01_blockchain_and_web3_fundamentals_orientation.md#3-types-of-blockchains)
@@ -29,7 +28,6 @@ _Comprehensive notes, assignments, and projects from the 100xbootcamp_
   - [Real-World Applications](./04_web3/Week_00_warmup/notes/01_blockchain_and_web3_fundamentals_orientation.md#6-real-world-applications)
 
 - **`Cryptography Fundamentals`**
-
   - [Hash Functions](./04_web3/Week_00_warmup/notes/02_public_key_cryptography.md#1-hash-functions)
   - [Public Key Cryptography](./04_web3/Week_00_warmup/notes/02_public_key_cryptography.md#2-public-key-cryptography)
   - [Digital Signatures](./04_web3/Week_00_warmup/notes/02_public_key_cryptography.md#3-digital-signatures)
@@ -38,7 +36,6 @@ _Comprehensive notes, assignments, and projects from the 100xbootcamp_
   - [Proof of Work Explained](./04_web3/Week_00_warmup/notes/02_public_key_cryptography.md#6-proof-of-work-explained)
 
 - **`Assignments`**
-
   - [Assignment: Proof of Work #1](./04_web3/Week_00_warmup/assignments/01_Assignment_proof_of_work.js)
   - [Assignment: Proof of Work #2](./04_web3/Week_00_warmup/assignments/02_Assignment_proof_of_work.js)
   - [Assignment: Proof of Work #3](./04_web3/Week_00_warmup/assignments/03_Assignment_proof_of_work.js)
@@ -54,7 +51,6 @@ _Comprehensive notes, assignments, and projects from the 100xbootcamp_
 ### Week 0 : Warmup Content
 
 - **`AI/ML Fundamentals`**
-
   - [What is AI, ML, and Deep Learning?](./03_ai-ml/Week_00_warmup/01_ai_ml_fundamentals.md#1-what-is-artificial-intelligence-ai)
   - [Neural Networks and Architecture](./03_ai-ml/Week_00_warmup/01_ai_ml_fundamentals.md#4-what-is-a-neural-network)
   - [Core Components (Neurons, Weights, Bias, Activation Functions)](./03_ai-ml/Week_00_warmup/01_ai_ml_fundamentals.md#5-core-components)
@@ -63,7 +59,6 @@ _Comprehensive notes, assignments, and projects from the 100xbootcamp_
   - [Real-Life Applications and Tools](./03_ai-ml/Week_00_warmup/01_ai_ml_fundamentals.md#8-real-life-applications)
 
 - **`Introduction to Large Language Models`**
-
   - [What is an LLM? (Parameters and Architecture)](./03_ai-ml/Week_00_warmup/02_Intro_to_Large_Language_Models.md#1-what-is-a-large-language-model)
   - [Training Process and Scaling Laws](./03_ai-ml/Week_00_warmup/02_Intro_to_Large_Language_Models.md#2-how-do-we-get-these-parameters)
   - [Base Models vs Assistant Models (Pre-training and Fine-tuning)](./03_ai-ml/Week_00_warmup/02_Intro_to_Large_Language_Models.md#6-from-base-model-to-assistant-model)
@@ -73,11 +68,41 @@ _Comprehensive notes, assignments, and projects from the 100xbootcamp_
   - [Security Challenges (Jailbreaks, Prompt Injection, Data Poisoning)](./03_ai-ml/Week_00_warmup/02_Intro_to_Large_Language_Models.md#13-security-challenges)
 
 - **`AI Orientation - Meet Your Instructor`**
-
   - [Course Overview & Goals](./03_ai-ml/Week_00_warmup/03_meet_your_instructor_orientation.md#course-overview)
   - [What You'll Learn (Theory & Applied)](./03_ai-ml/Week_00_warmup/03_meet_your_instructor_orientation.md#what-youll-learn)
   - [Career & Job Prep](./03_ai-ml/Week_00_warmup/03_meet_your_instructor_orientation.md#career--job-prep)
   - [Prerequisites & Tools](./03_ai-ml/Week_00_warmup/03_meet_your_instructor_orientation.md#prerequisites--tools)
+
+### Week 01 : History and Evolution to Transformers
+
+- **`Resources`**
+  - [Fasttracking the Course of AI Slides](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/slide/Fasttracking%20the%20course%20of%20AI_compressed.pdf)
+  - [LLM Visualization](https://bbycroft.net/llm)
+  - [Jailbreaking AI (collection)](https://github.com/elder-plinius/L1B3RT4S)
+
+- **`AI History and Fundamentals`**
+  - [Introduction to Learning](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#1-introduction-to-learning)
+  - [Artificial Intelligence - The Evolution](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#2-artificial-intelligence---the-evolution)
+  - [Rule-Based Systems (1950s-1960s)](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#3-attempt-1-rule-based-systems-1950s-1960s)
+  - [Statistical Models and Machine Learning](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#4-attempt-2-statistical-models-and-machine-learning)
+  - [AI Winters](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#5-ai-winters)
+  - [Convolutional Neural Networks (CNNs)](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#6-convolutional-neural-networks-cnns)
+  - [Natural Language Processing (NLP)](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#7-natural-language-processing-nlp)
+  - [Word Embeddings - The Breakthrough](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#8-word-embeddings---the-breakthrough)
+  - [Word Math - The Magic of Embeddings](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#9-word-math---the-magic-of-embeddings)
+  - [Sequence Models](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#10-sequence-models)
+  - [Problems with Sequence Models](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#11-problems-with-sequence-models)
+  - [Transformer Architecture - The Revolution](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#12-transformer-architecture---the-revolution)
+  - [Transformers Applied to Everything](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#13-transformers-applied-to-everything)
+
+- **`Evolution to Large Language Models`**
+  - [Large Language Models (LLMs)](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/02_evolution_to_llm.md#1-large-language-models-llms)
+  - [How ChatGPT Actually Works](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/02_evolution_to_llm.md#2-how-chatgpt-actually-works)
+  - [Understanding Through Next Word Prediction](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/02_evolution_to_llm.md#3-understanding-through-next-word-prediction)
+  - [How Text Generation Works](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/02_evolution_to_llm.md#4-how-text-generation-works)
+  - [Scaling Laws](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/02_evolution_to_llm.md#5-scaling-laws)
+  - [Current State (2025-2026)](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/02_evolution_to_llm.md#6-current-state-2025-2026)
+  - [Key Takeaways](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/02_evolution_to_llm.md#7-key-takeaways)
 
 <div align="right">
 
@@ -90,7 +115,6 @@ _Comprehensive notes, assignments, and projects from the 100xbootcamp_
 ### Week 0 : Orientation Content
 
 - **`DSA Orientation & Syllabus`**
-
   - [Course Overview](./Week_00_Orientation/Orientation_notes_and_syllabus.md#course-overview)
   - [Language Recommendations](./05_DSA/Week_00_Orientation/Orientation_notes_and_syllabus.md#language-recommendations)
   - [Contest Recommendations](./05_DSA/Week_00_Orientation/Orientation_notes_and_syllabus.md#contest-recommendations-for-experienced-learners)
@@ -99,14 +123,12 @@ _Comprehensive notes, assignments, and projects from the 100xbootcamp_
   - [Problem-Solving Approach](./05_DSA/Week_00_Orientation/Orientation_notes_and_syllabus.md#problem-solving-approach)
 
 - **`Resources`**
-
   - [DSA Sample Sheet](https://docs.google.com/spreadsheets/d/1j-OMhne7DF7CW711K-KDRCN3k-Ptc3HQdzghthBZ2vg/edit?usp=sharing)
   - [DSA Orientation Slides](./05_DSA/Week_00_Orientation/100xSchool_dsa_orientation_slide.pdf)
 
 ### Week 1 : Introduction to C++
 
 - **`C++ Fundamentals`**
-
   - [Setting Up C++ Environment](./05_DSA/Week_01_Introduction_to_C++/01_Session_notes.md#1-setting-up-c-environment)
   - [Variables and Data Types](./05_DSA/Week_01_Introduction_to_C++/01_Session_notes.md#3-variables-and-data-types)
   - [Input/Output Operations](./05_DSA/Week_01_Introduction_to_C++/01_Session_notes.md#4-input-and-output-operations)
@@ -114,7 +136,6 @@ _Comprehensive notes, assignments, and projects from the 100xbootcamp_
   - [Conditional Statements & Loops](./05_DSA/Week_01_Introduction_to_C++/01_Session_notes.md#6-conditional-statements)
 
 - **`Assignments`**
-
   - [18/18 Problems Solved - View All Solutions](./05_DSA/Week_01_Introduction_to_C++/02_Assignments.md)
 
 <div align="right">
@@ -128,7 +149,6 @@ _Comprehensive notes, assignments, and projects from the 100xbootcamp_
 ### Week 0 : Warmup & Orientation Content
 
 - **`HTML & CSS Foundation`**
-
   - [What is HTML?](./01_web-development/Week_00_Warmup_Orientation/01_html_css_foundation.md#1-what-is-html)
   - [What is CSS?](./01_web-development/Week_00_Warmup_Orientation/01_html_css_foundation.md#2-what-is-css)
   - [Basic HTML Structure](./01_web-development/Week_00_Warmup_Orientation/01_html_css_foundation.md#3-basic-html-structure)
@@ -138,7 +158,6 @@ _Comprehensive notes, assignments, and projects from the 100xbootcamp_
   - [Responsive Design - Media Queries](./01_web-development/Week_00_Warmup_Orientation/01_html_css_foundation.md#13-responsive-design---media-queries)
 
 - **`JavaScript Foundation`**
-
   - [Why Languages?](./01_web-development/Week_00_Warmup_Orientation/02_Javascript_foundation.md#1-why-languages-)
   - [Interpreted vs Compiled Languages](./01_web-development/Week_00_Warmup_Orientation/02_Javascript_foundation.md#2-interpreted-vs-compiled-languages-)
   - [Single-Threaded Nature of JavaScript](./01_web-development/Week_00_Warmup_Orientation/02_Javascript_foundation.md#5-single-threaded-nature-of-javascript)
@@ -147,9 +166,50 @@ _Comprehensive notes, assignments, and projects from the 100xbootcamp_
   - [Async vs Sync Functions](./01_web-development/Week_00_Warmup_Orientation/02_Javascript_foundation.md#9-async-functions-vs-sync-functions)
   - [Callbacks, Promises & Async/Await](./01_web-development/Week_00_Warmup_Orientation/02_Javascript_foundation.md#10-callbacks--promises-its-just-a-class-like-date)
 
+### Week 01 : HTML & CSS - Class 1 Notes
+
+- **`Resources`**
+
+  | Resource                      |                                               Link                                               |
+  | :---------------------------- | :----------------------------------------------------------------------------------------------: |
+  | Class 1 Html & CSS Notion Doc | [Open](https://petal-estimate-4e9.notion.site/Class-1-HTML-CSS-2ea7dfd1073580b18cd3de83f837e082) |
+  | Assignment Github Repository  |               [Open](https://github.com/100xdevs-bootcamp-1/HTML-CSS-Assignments)                |
+
+- **`Class Notes`**
+  - [Introduction](./01_web-development/Week_01_Html_Css_Basics/01_Web_Development_Html_css_Notes.md#1-introduction)
+  - [HTML Basics](./01_web-development/Week_01_Html_Css_Basics/01_Web_Development_Html_css_Notes.md#2-html-basics)
+  - [CSS Basics](./01_web-development/Week_01_Html_Css_Basics/01_Web_Development_Html_css_Notes.md#3-css-basics)
+  - [Making Websites Pretty](./01_web-development/Week_01_Html_Css_Basics/01_Web_Development_Html_css_Notes.md#4-making-websites-pretty)
+  - [Flexbox (Preview)](./01_web-development/Week_01_Html_Css_Basics/01_Web_Development_Html_css_Notes.md#5-flexbox-preview)
+  - [Assignments](./01_web-development/Week_01_Html_Css_Basics/01_Web_Development_Html_css_Notes.md#6-assignments)
+  - [Key Takeaways](./01_web-development/Week_01_Html_Css_Basics/01_Web_Development_Html_css_Notes.md#7-key-takeaways)
+  - [Common Interview Questions](./01_web-development/Week_01_Html_Css_Basics/01_Web_Development_Html_css_Notes.md#8-common-interview-questions)
+
+- **`Assignments`**
+  - [Assignment 1 - Center a Div](./01_web-development/Week_01_Html_Css_Basics/02_Assignments.md#assignment-1---age-old-question--how-to-center-a-div)
+  - [Assignment 2 - Elevenlabs Contact Form](./01_web-development/Week_01_Html_Css_Basics/02_Assignments.md#assignment-2---elevenlabs-contact-sales-form)
+
 <div align="right">
 
 [View full Web Dev Notes →](./01_web-development/README.md)
+
+</div>
+
+### Week 01 : Bitcoin & Blockchain - Class 1 (Summary)
+
+- **`Resources`**
+  - [Class 1 Slide — History of Bitcoin](./04_web3/Week_01_History_bitcoin_fundamentals.md/slide/class_1_history_of_bitcoin.pdf)
+
+- **`Topics`**
+  - [Introduction to Blockchain and Cryptocurrencies](./04_web3/Week_01_History_bitcoin_fundamentals.md/01_introduction_to_blockchain.md#1-introduction-to-blockchain-and-cryptocurrencies)
+  - [Problems with Traditional Currencies](./04_web3/Week_01_History_bitcoin_fundamentals.md/01_introduction_to_blockchain.md#2-problems-with-traditional-currencies)
+  - [Why Gold is a Store of Value (Digital Gold)](./04_web3/Week_01_History_bitcoin_fundamentals.md/01_introduction_to_blockchain.md#3-why-gold-is-a-store-of-value)
+  - [Cryptography Concepts (Hashing, Signatures)](./04_web3/Week_01_History_bitcoin_fundamentals.md/01_introduction_to_blockchain.md#6-cryptography-concepts)
+  - [Bitcoin Architecture & PoW](./04_web3/Week_01_History_bitcoin_fundamentals.md/01_introduction_to_blockchain.md#7-bitcoin-architecture)
+
+<div align="right">
+
+[View full Web3 Notes →](./04_web3/README.md)
 
 </div>
 
