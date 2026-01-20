@@ -40,11 +40,25 @@ _Comprehensive notes, assignments, and projects from the 100xbootcamp_
   - [Assignment: Proof of Work #2](./04_web3/Week_00_warmup/assignments/02_Assignment_proof_of_work.js)
   - [Assignment: Proof of Work #3](./04_web3/Week_00_warmup/assignments/03_Assignment_proof_of_work.js)
 
+### Week 01 : Bitcoin & Blockchain - Class 1 (Summary)
+
+- **`Resources`**
+  - [Class 1 Slide — History of Bitcoin](./04_web3/Week_01_History_bitcoin_fundamentals.md/slide/class_1_history_of_bitcoin.pdf)
+
+- **`Topics`**
+  - [Introduction to Blockchain and Cryptocurrencies](./04_web3/Week_01_History_bitcoin_fundamentals.md/01_introduction_to_blockchain.md#1-introduction-to-blockchain-and-cryptocurrencies)
+  - [Problems with Traditional Currencies](./04_web3/Week_01_History_bitcoin_fundamentals.md/01_introduction_to_blockchain.md#2-problems-with-traditional-currencies)
+  - [Why Gold is a Store of Value (Digital Gold)](./04_web3/Week_01_History_bitcoin_fundamentals.md/01_introduction_to_blockchain.md#3-why-gold-is-a-store-of-value)
+  - [Cryptography Concepts (Hashing, Signatures)](./04_web3/Week_01_History_bitcoin_fundamentals.md/01_introduction_to_blockchain.md#6-cryptography-concepts)
+  - [Bitcoin Architecture & PoW](./04_web3/Week_01_History_bitcoin_fundamentals.md/01_introduction_to_blockchain.md#7-bitcoin-architecture)
+
 <div align="right">
 
 [View full Web3 Notes →](./04_web3/README.md)
 
 </div>
+
+---
 
 ## **AI and Machine Learning Bootcamp**
 
@@ -90,10 +104,8 @@ _Comprehensive notes, assignments, and projects from the 100xbootcamp_
   - [Natural Language Processing (NLP)](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#7-natural-language-processing-nlp)
   - [Word Embeddings - The Breakthrough](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#8-word-embeddings---the-breakthrough)
   - [Word Math - The Magic of Embeddings](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#9-word-math---the-magic-of-embeddings)
-  - [Sequence Models](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#10-sequence-models)
-  - [Problems with Sequence Models](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#11-problems-with-sequence-models)
-  - [Transformer Architecture - The Revolution](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#12-transformer-architecture---the-revolution)
-  - [Transformers Applied to Everything](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/01_fasttrackeing_the_course_of_ai.md#13-transformers-applied-to-everything)
+  
+  
 
 - **`Evolution to Large Language Models`**
   - [Large Language Models (LLMs)](./03_ai-ml/Week_01_History_and_evolution_to_transformers.md/02_evolution_to_llm.md#1-large-language-models-llms)
@@ -195,25 +207,7 @@ _Comprehensive notes, assignments, and projects from the 100xbootcamp_
 
 </div>
 
-### Week 01 : Bitcoin & Blockchain - Class 1 (Summary)
 
-- **`Resources`**
-  - [Class 1 Slide — History of Bitcoin](./04_web3/Week_01_History_bitcoin_fundamentals.md/slide/class_1_history_of_bitcoin.pdf)
-
-- **`Topics`**
-  - [Introduction to Blockchain and Cryptocurrencies](./04_web3/Week_01_History_bitcoin_fundamentals.md/01_introduction_to_blockchain.md#1-introduction-to-blockchain-and-cryptocurrencies)
-  - [Problems with Traditional Currencies](./04_web3/Week_01_History_bitcoin_fundamentals.md/01_introduction_to_blockchain.md#2-problems-with-traditional-currencies)
-  - [Why Gold is a Store of Value (Digital Gold)](./04_web3/Week_01_History_bitcoin_fundamentals.md/01_introduction_to_blockchain.md#3-why-gold-is-a-store-of-value)
-  - [Cryptography Concepts (Hashing, Signatures)](./04_web3/Week_01_History_bitcoin_fundamentals.md/01_introduction_to_blockchain.md#6-cryptography-concepts)
-  - [Bitcoin Architecture & PoW](./04_web3/Week_01_History_bitcoin_fundamentals.md/01_introduction_to_blockchain.md#7-bitcoin-architecture)
-
-<div align="right">
-
-[View full Web3 Notes →](./04_web3/README.md)
-
-</div>
-
----
 
 ## Contributing
 
